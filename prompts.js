@@ -5,4 +5,5 @@ let details = {
   roll: 23051409,
   roll: 23051409,
   section: "cse35",
+  section: "cse35",
 }
